@@ -50,7 +50,6 @@ ehoffmann,Erika,Hoffmann,Erika Hoffmann,erika.hoffmann@alpinskihouse.com,P@ssw0r
 gmeyer,Gabriele,Meyer,Gabriele Meyer,gabriele.meyer@alpinskihouse.com,P@ssw0rd,Musterring 15,Straubing,94351,Germany,AlpinSkiHouse GmbH,Accounting,Specialist,Beschreibung,+49123-456,+49151123-456
 chagner,Christa,Wagner,Christa Wagner,christa.wagner@alpinskihouse.com,P@ssw0rd,Musterring 15,Straubing,94351,Germany,AlpinSkiHouse GmbH,Accounting,Specialist,Beschreibung,+49123-456,+49151123-456
 cmeyer,Christine,Meyer,Christine Meyer,christine.meyer@alpinskihouse.com,P@ssw0rd,Musterring 15,Straubing,94351,Germany,AlpinSkiHouse GmbH,Accounting,Specialist,Beschreibung,+49123-456,+49151123-456
-
 '@
 
         RootOUs = 'HR','Accounting','Design','IT','Marketing','Operations'
