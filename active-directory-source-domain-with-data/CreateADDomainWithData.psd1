@@ -27,11 +27,11 @@ jkoch,Juergen,Koch,Juergen Koch,jueregn.koch@alpinskihouse.com,P@ssw0rd,Musterri
 sklein,Sabine,Klein,Sabine Klein,sabine.klein@alpinskihouse.com,P@ssw0rd,Musterring 15,Straubing,94351,Germany,AlpinSkiHouse GmbH,Operations,Specialist,Beschreibung,+49123-456,+49151123-456
 rrichter,Renate,Richter,Renate Richter,renate.richter@alpinskihouse.com,P@ssw0rd,Musterring 15,Straubing,94351,Germany,AlpinSkiHouse GmbH,Operations,Specialist,Beschreibung,+49123-456,+49151123-456
 kbauer,Karin,Bauer,Karin Bauer,karin.bauer@alpinskihouse.com,P@ssw0rd,Musterring 15,Straubing,94351,Germany,AlpinSkiHouse GmbH,HR,Manager,Beschreibung,+49123-456,+49151123-456
-hklein,Heinz,Klein,Heinz  Klein,hans,klein@alpinskihouse.com,P@ssw0rd,Musterring 15,Straubing,94351,Germany,AlpinSkiHouse GmbH,HR,Specialist,Beschreibung,+49123-456,+49151123-456
+hklein,Heinz,Klein,Heinz Klein,heinz.klein@alpinskihouse.com,P@ssw0rd,Musterring 15,Straubing,94351,Germany,AlpinSkiHouse GmbH,HR,Specialist,Beschreibung,+49123-456,+49151123-456
 hkoch,Helga,Koch,Helga Koch,helga.koch@alpinskihouse.com,P@ssw0rd,Musterring 15,Straubing,94351,Germany,AlpinSkiHouse GmbH,HR,Specialist,Beschreibung,+49123-456,+49151123-456
 bschaefer,Brigitte,Schaefer,Brigitte Schaefer,brigitte.schaefer@alpinskihouse.com,P@ssw0rd,Musterring 15,Straubing,94351,Germany,AlpinSkiHouse GmbH,HR,Specialist,Beschreibung,+49123-456,+49151123-456
 ischaefer,Ingrid,Schaefer,Ingrid Schaefer,ingrid.schaefer@alpinskihouse.com,P@ssw0rd,Musterring 15,Straubing,94351,Germany,AlpinSkiHouse GmbH,HR,Specialist,Beschreibung,+49123-456,+49151123-456
-grichter,Gerhard,Richter,Gerhard Richter,gerhard,richter@alpinskihouse.com,P@ssw0rd,Musterring 15,Straubing,94351,Germany,AlpinSkiHouse GmbH,Design,Manager,Beschreibung,+49123-456,+49151123-456
+grichter,Gerhard,Richter,Gerhard Richter,gerhard.richter@alpinskihouse.com,P@ssw0rd,Musterring 15,Straubing,94351,Germany,AlpinSkiHouse GmbH,Design,Manager,Beschreibung,+49123-456,+49151123-456
 ahoffmann,Andreas,Hoffmann,Andreas Hoffmann,andreas.hoffmann@alpinskihouse.com,P@ssw0rd,Musterring 15,Straubing,94351,Germany,AlpinSkiHouse GmbH,Design,Specialist,Beschreibung,+49123-456,+49151123-456
 hschaefer,Hans,Schaefer,Hans Schaefer,hans.schaefer@alpinskihouse.com,P@ssw0rd,Musterring 15,Straubing,94351,Germany,AlpinSkiHouse GmbH,Design,Specialist,Beschreibung,+49123-456,+49151123-456
 jhoffmann,Josef,Hoffmann,Josef Hoffmann,josef.hoffmann@alpinskihouse.com,P@ssw0rd,Musterring 15,Straubing,94351,Germany,AlpinSkiHouse GmbH,Design,Specialist,Beschreibung,+49123-456,+49151123-456
