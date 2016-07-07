@@ -22,7 +22,6 @@ cbecker,Claudia,Becker,Claudia Becker,P@ssw0rd,Marketing,Specialist
 sfischer,Susanne,Fischer,Susanne Fischer,P@ssw0rd,Marketing,Specialist
 tgruber,Thomas,Gruber,Thomas Gruber,P@ssw0rd,Operations,Manager
 mweber,Manfred,Weber,Manfred Weber,P@ssw0rd,Operations,Specialist
-
 '@
 
         RootOUs = 'Sales','HR','IT','Marketing','Operations'
