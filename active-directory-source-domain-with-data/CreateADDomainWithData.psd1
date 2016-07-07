@@ -28,6 +28,7 @@ sklein,Sabine,Klein,Sabine Klein,P@ssw0rd,Operations,Specialist
 rrichter,Renate,Richter,Renate Richter,P@ssw0rd,Sales,Specialist
 kbauer,Karin,Bauer,Karin Bauer,P@ssw0rd,HR,Manager
 hklein,Heinz,Klein,Heinz Klein,P@ssw0rd,HR,Specialist
+bschaefer,Brigitte,Schaefer,Brigitte Schaefer,P@ssw0rd,HR,Specialist
 hkoch,Helga,Koch,Helga Koch,P@ssw0rd,HR,Specialist
 '@
 
