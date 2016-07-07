@@ -27,7 +27,7 @@ kbauer,Klaus,Bauer,Klaus Bauer,P@ssw0rd,Marketing,Specialist
 aschulz,Andrea,Schulz,Andrea Schulz,P@ssw0rd,Marketing,Specialist
 gwagner,Gisela,Wagner,Gisela Wagner,P@ssw0rd,Marketing,Specialist
 cbecker,Claudia,Becker,Claudia Becker,P@ssw0rd,Marketing,Specialist
-sfischer,Susanne,Fischer,Susanne FischerP@ssw0rd,Marketing,Specialist
+sfischer,Susanne,Fischer,Susanne Fischer,P@ssw0rd,Marketing,Specialist
 tgruber,Thomas,Gruber,Thomas Gruber,P@ssw0rd,Operations,Manager
 mweber,Manfred,Weber,Manfred Weber,P@ssw0rd,Operations,Specialist
 hwolf,Helmut,Wolf,Helmut Wolf,P@ssw0rd,Operations,Specialist
