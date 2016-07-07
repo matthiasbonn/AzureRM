@@ -60,7 +60,7 @@ chagner,Christa,Wagner,Christa Wagner,P@ssw0rd,Accounting,Specialist
 cmeyer,Christine,Meyer,Christine Meyer,P@ssw0rd,Accounting,Specialist
 '@
 
-        RootOUs = 'Accounting','IT','Marketing','Operations'
+        RootOUs = 'HR','Design','Accounting','IT','Marketing','Operations'
         ChildOUs = 'Users','Computers','Groups'
         TestObjCount = 5
 
