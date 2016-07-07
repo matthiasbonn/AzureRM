@@ -22,14 +22,7 @@ cbecker,Claudia,Becker,Claudia Becker,P@ssw0rd,Marketing,Specialist
 sfischer,Susanne,Fischer,Susanne Fischer,P@ssw0rd,Marketing,Specialist
 tgruber,Thomas,Gruber,Thomas Gruber,P@ssw0rd,Operations,Manager
 mweber,Manfred,Weber,Manfred Weber,P@ssw0rd,Operations,Specialist
-hwolf,Helmut,Wolf,Helmut Wolf,P@ssw0rd,Operations,Specialist
-jkoch,Juergen,Koch,Juergen Koch,P@ssw0rd,Operations,Specialist
-sklein,Sabine,Klein,Sabine Klein,P@ssw0rd,Operations,Specialist
-rrichter,Renate,Richter,Renate Richter,P@ssw0rd,Sales,Specialist
-kbauer,Karin,Bauer,Karin Bauer,P@ssw0rd,HR,Manager
-hklein,Heinz,Klein,Heinz Klein,P@ssw0rd,HR,Specialist
-bschaefer,Brigitte,Schaefer,Brigitte Schaefer,P@ssw0rd,HR,Specialist
-hkoch,Helga,Koch,Helga Koch,P@ssw0rd,HR,Specialist
+
 '@
 
         RootOUs = 'Sales','HR','IT','Marketing','Operations'
