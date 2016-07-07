@@ -18,6 +18,7 @@ Eddie,Eddie,Eagle,Eddie Eagle,P@ssw0rd,Accounting,Specialist
 Frieda,Frieda,Swenson,Frieda Swenson,P@ssw0rd,IT,Specialist
 George,George,Mikel,George Mikel,P@ssw0rd,Marketing,Specialist
 Harriet,Harriet,Green,Harriet Green,P@ssw0rd,Operations,Specialist
+Anna,Anna,Fischerr,Anna Fischer,P@ssw0rd,HR,MManager
 '@
 
         RootOUs = 'HR','Accounting','Design','IT','Marketing','Operations'
